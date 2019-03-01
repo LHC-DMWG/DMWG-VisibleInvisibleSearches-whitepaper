@@ -1,0 +1,277 @@
+\providecommand{\href}[2]{#2}\begingroup\raggedright\begin{thebibliography}{10}
+
+\bibitem{Abercrombie:2015wmb}
+D.~Abercrombie et~al., {\it {Dark Matter Benchmark Models for Early LHC Run-2
+  Searches: Report of the ATLAS/CMS Dark Matter Forum}},
+  \href{http://arxiv.org/abs/1507.00966}{{\tt arXiv:1507.00966}}.
+
+\bibitem{Dreiner:2013vla}
+H.~Dreiner, D.~Schmeier, and J.~Tattersall, {\it {Contact Interactions Probe
+  Effective Dark Matter Models at the LHC}},  {\em Europhys. Lett.} {\bf 102}
+  (2013) 51001, [\href{http://arxiv.org/abs/1303.3348}{{\tt arXiv:1303.3348}}].
+
+\bibitem{Chala:2015ama}
+M.~Chala, F.~Kahlhoefer, M.~McCullough, G.~Nardini, and K.~Schmidt-Hoberg, {\it
+  {Constraining Dark Sectors with Monojets and Dijets}},  {\em JHEP} {\bf 07}
+  (2015) 089, [\href{http://arxiv.org/abs/1503.05916}{{\tt arXiv:1503.05916}}].
+
+\bibitem{Fairbairn:2016iuf}
+M.~Fairbairn, J.~Heal, F.~Kahlhoefer, and P.~Tunney, {\it {Constraints on Z′
+  models from LHC dijet searches and implications for dark matter}},  {\em
+  JHEP} {\bf 09} (2016) 018, [\href{http://arxiv.org/abs/1605.07940}{{\tt
+  arXiv:1605.07940}}].
+
+\bibitem{ATLAS:2016pyq}
+A.~Collaboration, {\it {Search for heavy Higgs bosons A/H decaying to a
+  top-quark pair in pp collisions at $\sqrt{s}=8$ TeV with the ATLAS
+  detector}}, .
+
+\bibitem{Bauer:2017ota}
+M.~Bauer, U.~Haisch, and F.~Kahlhoefer, {\it {Simplified dark matter models
+  with two Higgs doublets: I. Pseudoscalar mediators}},
+  \href{http://arxiv.org/abs/1701.07427}{{\tt arXiv:1701.07427}}.
+
+\bibitem{Boveia:2016mrp}
+G.~Busoni et~al., {\it {Recommendations on presenting LHC searches for missing
+  transverse energy signals using simplified $s$-channel models of dark
+  matter}},  \href{http://arxiv.org/abs/1603.04156}{{\tt arXiv:1603.04156}}.
+
+\bibitem{ATLASsummaryplots}
+{ATLAS Collaboration}, ``Dark matter simplified model exclusions.''
+  \href{https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CombinedSummaryPlots/EXOTICS/ATLAS\_DarkMatter\_Summary/history.html}{link},
+  2016.
+
+\bibitem{CMS_SummaryPlots_ICHEP}
+{CMS Collaboration}, ``{Dark Matter Summary Plots from CMS for ICHEP 2016}.''
+  \href{https://cds.cern.ch/record/2208044/files/DP2016\_057.pdf}{CMS-DP-16-057}.
+
+\bibitem{Sirunyan:2016iap}
+{CMS Collaboration}, {\it {Search for dijet resonances in proton-proton
+  collisions at $\sqrt{s}=$ 13 TeV and constraints on dark matter and other
+  models}},  {\em Submitted to: Phys. Lett. B} (2016)
+  [\href{http://arxiv.org/abs/1611.03568}{{\tt arXiv:1611.03568}}].
+
+\bibitem{Kahlhoefer:2015bea}
+F.~Kahlhoefer, K.~Schmidt-Hoberg, T.~Schwetz, and S.~Vogl, {\it {Implications
+  of unitarity and gauge invariance for simplified dark matter models}},  {\em
+  JHEP} {\bf 02} (2016) 016, [\href{http://arxiv.org/abs/1510.02110}{{\tt
+  arXiv:1510.02110}}].
+
+\bibitem{Jacques:2016dqz}
+T.~Jacques, A.~Katz, E.~Morgante, D.~Racco, M.~Rameez, and A.~Riotto, {\it
+  {Complementarity of DM searches in a consistent simplified model: the case of
+  $Z′$}},  {\em JHEP} {\bf 10} (2016) 071,
+  [\href{http://arxiv.org/abs/1605.06513}{{\tt arXiv:1605.06513}}].
+
+\bibitem{Arcadi:2013qia}
+G.~Arcadi, Y.~Mambrini, M.~H.~G. Tytgat, and B.~Zaldivar, {\it {Invisible
+  $Z^\prime$ and dark matter: LHC vs LUX constraints}},  {\em JHEP} {\bf 1403}
+  (2014) 134, [\href{http://arxiv.org/abs/1401.0221}{{\tt arXiv:1401.0221}}].
+
+\bibitem{Bauer:2016gys}
+M.~Bauer et~al., {\it {Towards the next generation of simplified Dark Matter
+  models}},  \href{http://arxiv.org/abs/1607.06680}{{\tt arXiv:1607.06680}}.
+
+\bibitem{Carena:2004xs}
+M.~Carena, A.~Daleo, B.~A. Dobrescu, and T.~M.~P. Tait, {\it {$Z^\prime$ gauge
+  bosons at the Tevatron}},  {\em Phys. Rev.} {\bf D70} (2004) 093009,
+  [\href{http://arxiv.org/abs/hep-ph/0408098}{{\tt hep-ph/0408098}}].
+
+\bibitem{D'Ambrosio:2002ex}
+G.~D'Ambrosio, G.~F. Giudice, G.~Isidori, and A.~Strumia, {\it {Minimal flavor
+  violation: An Effective field theory approach}},  {\em Nucl. Phys.} {\bf
+  B645} (2002) 155--187, [\href{http://arxiv.org/abs/hep-ph/0207036}{{\tt
+  hep-ph/0207036}}].
+
+\bibitem{LHCDMFmodels}
+``{Model Repository of the ATLAS/CMS Dark Matter Forum}.''
+  \href{svn+ssh://svn.cern.ch/reps/LHCDMF}{svn+ssh://svn.cern.ch/reps/LHCDMF},
+  2015.
+
+\bibitem{Alwall:2014hca}
+J.~Alwall, R.~Frederix, S.~Frixione, V.~Hirschi, F.~Maltoni, O.~Mattelaer,
+  H.~S. Shao, T.~Stelzer, P.~Torrielli, and M.~Zaro, {\it {The automated
+  computation of tree-level and next-to-leading order differential cross
+  sections, and their matching to parton shower simulations}},  {\em JHEP} {\bf
+  07} (2014) 079, [\href{http://arxiv.org/abs/1405.0301}{{\tt
+  arXiv:1405.0301}}].
+
+\bibitem{Backovic:2015soa}
+M.~Backovic, M.~Kr{\"a}mer, F.~Maltoni, A.~Martini, K.~Mawatari, and M.~Pellen,
+  {\it {Higher-order QCD predictions for dark matter production at the LHC in
+  simplified models with s-channel mediators}},  {\em Eur. Phys. J.} {\bf C75}
+  (2015), no.~10 482, [\href{http://arxiv.org/abs/1508.05327}{{\tt
+  arXiv:1508.05327}}].
+
+\bibitem{Degrande:2011ua}
+C.~Degrande, C.~Duhr, B.~Fuks, D.~Grellscheid, O.~Mattelaer, and T.~Reiter,
+  {\it {UFO - The Universal FeynRules Output}},  {\em Comput. Phys. Commun.}
+  {\bf 183} (2012) 1201--1214, [\href{http://arxiv.org/abs/1108.2040}{{\tt
+  arXiv:1108.2040}}].
+
+\bibitem{Alloul:2013bka}
+A.~Alloul, N.~D. Christensen, C.~Degrande, C.~Duhr, and B.~Fuks, {\it
+  {FeynRules 2.0 - A complete toolbox for tree-level phenomenology}},  {\em
+  Comput. Phys. Commun.} {\bf 185} (2014) 2250--2300,
+  [\href{http://arxiv.org/abs/1310.1921}{{\tt arXiv:1310.1921}}].
+
+\bibitem{DMsimp}
+``{Simplified dark matter models}.''
+  \href{http://feynrules.irmp.ucl.ac.be/wiki/DMsimp}{http://feynrules.irmp.ucl.ac.be/wiki/DMsimp}.
+
+\bibitem{Duerr:2016tmh}
+M.~Duerr, F.~Kahlhoefer, K.~Schmidt-Hoberg, T.~Schwetz, and S.~Vogl, {\it {How
+  to save the WIMP: global analysis of a dark matter model with two s-channel
+  mediators}},  {\em JHEP} {\bf 09} (2016) 042,
+  [\href{http://arxiv.org/abs/1606.07609}{{\tt arXiv:1606.07609}}].
+
+\bibitem{Aad:2014cka}
+{ATLAS~Collaboration}, {\it {Search for high-mass dilepton resonances in pp
+  collisions at $\sqrt{s}=8$  TeV with the ATLAS detector}},  {\em Phys.
+  Rev.} {\bf D90} (2014), no.~5 052005,
+  [\href{http://arxiv.org/abs/1405.4123}{{\tt arXiv:1405.4123}}].
+
+\bibitem{Khachatryan:2014fba}
+C.~Collaboration, {\it {Search for physics beyond the standard model in
+  dilepton mass spectra in proton-proton collisions at $ \sqrt{s}=8 $ TeV}},
+  {\em JHEP} {\bf 04} (2015) 025, [\href{http://arxiv.org/abs/1412.6302}{{\tt
+  arXiv:1412.6302}}].
+
+\bibitem{Aaboud:2016cth}
+{ATLAS~Collaboration}, {\it {Search for high-mass new phenomena in the dilepton
+  final state using proton-proton collisions at $\sqrt{s}=13$ TeV with the
+  ATLAS detector}},  {\em Phys. Lett.} {\bf B761} (2016) 372--392,
+  [\href{http://arxiv.org/abs/1607.03669}{{\tt arXiv:1607.03669}}].
+
+\bibitem{Khachatryan:2016zqb}
+{CMS~Collaboration}, {\it {Search for narrow resonances in dilepton mass
+  spectra in proton-proton collisions at $\sqrt{s}$ = 13 TeV and combination
+  with 8 TeV data}},  \href{http://arxiv.org/abs/1609.05391}{{\tt
+  arXiv:1609.05391}}.
+
+\bibitem{Khachatryan:2016qkc}
+{CMS Collaboration}, {\it {Search for heavy resonances decaying to tau lepton
+  pairs in proton-proton collisions at $\sqrt{s}$ = 13 TeV}},  {\em Submitted
+  to: JHEP} (2016) [\href{http://arxiv.org/abs/1611.06594}{{\tt
+  arXiv:1611.06594}}].
+
+\bibitem{ATLAS-CONF-2016-045}
+{ATLAS Collaboration}, {\it {Search for new high-mass resonances in the
+  dilepton final state using proton-proton collisions at $\sqrt{s}$ = 13 TeV
+  with the ATLAS detector}},  Tech. Rep. ATLAS-CONF-2016-045, CERN, Geneva,
+  Aug, 2016.
+
+\bibitem{Dicus:1994bm}
+D.~Dicus, A.~Stange, and S.~Willenbrock, {\it {Higgs decay to top quarks at
+  hadron colliders}},  {\em Phys. Lett.} {\bf B333} (1994) 126--131,
+  [\href{http://arxiv.org/abs/hep-ph/9404359}{{\tt hep-ph/9404359}}].
+
+\bibitem{Frederix:2007gi}
+R.~Frederix and F.~Maltoni, {\it {Top pair invariant mass distribution: A
+  Window on new physics}},  {\em JHEP} {\bf 01} (2009) 047,
+  [\href{http://arxiv.org/abs/0712.2355}{{\tt arXiv:0712.2355}}].
+
+\bibitem{Djouadi:2015jea}
+A.~Djouadi, L.~Maiani, A.~Polosa, J.~Quevillon, and V.~Riquer, {\it {Fully
+  covering the MSSM Higgs sector at the LHC}},  {\em JHEP} {\bf 06} (2015) 168,
+  [\href{http://arxiv.org/abs/1502.05653}{{\tt arXiv:1502.05653}}].
+
+\bibitem{Craig:2015jba}
+N.~Craig, F.~D'Eramo, P.~Draper, S.~Thomas, and H.~Zhang, {\it {The Hunt for
+  the Rest of the Higgs Bosons}},  {\em JHEP} {\bf 06} (2015) 137,
+  [\href{http://arxiv.org/abs/1504.04630}{{\tt arXiv:1504.04630}}].
+
+\bibitem{Jung:2015gta}
+S.~Jung, J.~Song, and Y.~W. Yoon, {\it {Dip or nothingness of a Higgs resonance
+  from the interference with a complex phase}},  {\em Phys. Rev.} {\bf D92}
+  (2015), no.~5 055009, [\href{http://arxiv.org/abs/1505.00291}{{\tt
+  arXiv:1505.00291}}].
+
+\bibitem{Bernreuther:2015fts}
+W.~Bernreuther, P.~Galler, C.~Mellein, Z.~G. Si, and P.~Uwer, {\it {Production
+  of heavy Higgs bosons and decay into top quarks at the LHC}},  {\em Phys.
+  Rev.} {\bf D93} (2016), no.~3 034032,
+  [\href{http://arxiv.org/abs/1511.05584}{{\tt arXiv:1511.05584}}].
+
+\bibitem{Gori:2016zto}
+S.~Gori, I.-W. Kim, N.~R. Shah, and K.~M. Zurek, {\it {Closing the Wedge:
+  Search Strategies for Extended Higgs Sectors with Heavy Flavor Final
+  States}},  {\em Phys. Rev.} {\bf D93} (2016), no.~7 075038,
+  [\href{http://arxiv.org/abs/1602.02782}{{\tt arXiv:1602.02782}}].
+
+\bibitem{Carena:2016npr}
+M.~Carena and Z.~Liu, {\it {Challenges and opportunities for heavy scalar
+  searches in the $ t\overline{t} $ channel at the LHC}},  {\em JHEP} {\bf 11}
+  (2016) 159, [\href{http://arxiv.org/abs/1608.07282}{{\tt arXiv:1608.07282}}].
+
+\bibitem{Ade:2015xua}
+{\bf Planck} Collaboration, P.~A.~R. Ade et~al., {\it {Planck 2015 results.
+  XIII. Cosmological parameters}},  \href{http://arxiv.org/abs/1502.01589}{{\tt
+  arXiv:1502.01589}}.
+
+\bibitem{Backovic:2013dpa}
+M.~Backovic, K.~Kong, and M.~McCaskey, {\it {MadDM v.1.0: Computation of Dark
+  Matter Relic Abundance Using MadGraph5}},  {\em Physics of the Dark Universe}
+  {\bf 5-6} (2014) 18--28, [\href{http://arxiv.org/abs/1308.4955}{{\tt
+  arXiv:1308.4955}}].
+
+\bibitem{Backovic:2015tpt}
+M.~Backovic, A.~Martini, K.~Kong, O.~Mattelaer, and G.~Mohlabeng, {\it {MadDM:
+  New dark matter tool in the LHC era}},  {\em AIP Conf. Proc.} {\bf 1743}
+  (2016) 060001, [\href{http://arxiv.org/abs/1509.03683}{{\tt
+  arXiv:1509.03683}}].
+
+\bibitem{RelicRepo}
+D.~M.~W. Group, ``Relic density curves.''
+  \url{https://gitlab.cern.ch/lhc-dmwg-material/relic-density}, 2017.
+
+\bibitem{Abdullah:2014lla}
+M.~Abdullah, A.~DiFranzo, A.~Rajaraman, T.~M.~P. Tait, P.~Tanedo, and A.~M.
+  Wijangco, {\it {Hidden on-shell mediators for the Galactic Center
+  $\gamma$-ray excess}},  {\em Phys. Rev.} {\bf D90} (2014) 035004,
+  [\href{http://arxiv.org/abs/1404.6528}{{\tt arXiv:1404.6528}}].
+
+\bibitem{Busoni:2014gta}
+G.~Busoni, A.~De~Simone, T.~Jacques, E.~Morgante, and A.~Riotto, {\it {Making
+  the Most of the Relic Density for Dark Matter Searches at the LHC 14 TeV
+  Run}},  {\em JCAP} {\bf 1503} (2015), no.~03 022,
+  [\href{http://arxiv.org/abs/1410.7409}{{\tt arXiv:1410.7409}}].
+
+\bibitem{Pree:2016hwc}
+T.~du~Pree, K.~Hahn, P.~Harris, and C.~Roskas, {\it {Cosmological constraints
+  on Dark Matter models for collider searches}},
+  \href{http://arxiv.org/abs/1603.08525}{{\tt arXiv:1603.08525}}.
+
+\bibitem{Belanger:2014vza}
+G.~Belanger, F.~Boudjema, A.~Pukhov, and A.~Semenov, {\it {micrOMEGAs4.1: two
+  dark matter candidates}},  {\em Comput. Phys. Commun.} {\bf 192} (2015)
+  322--329, [\href{http://arxiv.org/abs/1407.6129}{{\tt arXiv:1407.6129}}].
+
+\bibitem{Gondolo:1990dk}
+P.~Gondolo and G.~Gelmini, {\it {Cosmic abundances of stable particles:
+  Improved analysis}},  {\em Nucl.Phys.} {\bf B360} (1991) 145--179.
+
+\bibitem{ATLAS:2015nsi}
+{ATLAS Collaboration}, {\it {Search for new phenomena in dijet mass and angular
+  distributions from $pp$ collisions at $\sqrt{s}=$ 13 TeV with the ATLAS
+  detector}},  {\em Phys. Lett.} {\bf B754} (2016) 302--322,
+  [\href{http://arxiv.org/abs/1512.01530}{{\tt arXiv:1512.01530}}].
+
+\bibitem{CMS-PAS-EXO-15-009}
+{CMS Collaboration}, {\it {Searches for quark contact interactions and extra
+  spatial dimensions with dijet angular distributions in proton proton
+  collisions at 13 TeV}},  Tech. Rep. CMS-PAS-EXO-15-009, CERN, Geneva, 2015.
+
+\bibitem{Aad:2014wca}
+{ATLAS Collaboration}, {\it {Search for contact interactions and large extra
+  dimensions in the dilepton channel using proton-proton collisions at
+  $\sqrt{s}$ = 8 TeV with the ATLAS detector}},  {\em Eur. Phys. J.} {\bf C74}
+  (2014), no.~12 3134, [\href{http://arxiv.org/abs/1407.2410}{{\tt
+  arXiv:1407.2410}}].
+
+\bibitem{Khachatryan:2015scf}
+V.~Khachatryan et~al., {\it {Search for excited leptons in proton-proton
+  collisions at sqrt(s) = 8 TeV}},  {\em JHEP} {\bf 03} (2016) 125,
+  [\href{http://arxiv.org/abs/1511.01407}{{\tt arXiv:1511.01407}}].
+
+\end{thebibliography}\endgroup
