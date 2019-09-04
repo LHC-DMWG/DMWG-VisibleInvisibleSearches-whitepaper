@@ -1,0 +1,20 @@
+Dear reviewer,
+
+We appreciate the time you took to read this document in detail. Thank you for your comments. 
+
+We chose to devote such a large part of the document to describing how we calculate (analytically or numerically) the thermal relic density because the Dark Matter Working Group and the experimental collaborations had, until this paper, used widely-employed software (MadDM) that contained an incorrect calculation of the relic density---it was missing the two-mediator process depicted in the right-hand side of Fig. 1. The community then undertook a campaign of cross-checking the calculations in MadDM against another software (MicroMEGAs) and against the theoretical calculations, in order to fix the MadDM problem. This paper is the only place that documents that work and the pre-print version has already been cited in many places as a reference bridging results using the two different versions of MadDM. 
+
+Moreover, the relic density curves used by the LHC collaborations in their summary and individual search results were released on Zenodo (the open data repository) and linked to this paper, so we would like to keep a thorough documentation of how they were obtained.
+
+Instead of shortening this part of the document, we propose to change the title to reflect the contents, namely from: 
+
+"Recommendations of the LHC Dark Matter Working Group: Comparing LHC searches for heavy mediators of dark matter production in visible and invisible decay channels"
+
+to:
+
+"Recommendations of the LHC Dark Matter Working Group: Comparing LHC searches for dark matter mediators in visible and invisible decay channels and calculations of the thermal relic density"
+
+Please let us know if this proposal suits you—otherwise we will try to shorten the document, but we would much prefer not to change substantially the content of a document that is now referenced by many LHC papers. 
+
+
+Antonio, for the authors
